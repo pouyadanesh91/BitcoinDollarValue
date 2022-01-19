@@ -2,4 +2,7 @@
     <string name="app_name">BitcoinDollarValue</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
+    <string name="txtBitcoinValue">bitcoin is %1$.2f $</string>
+    <string name="btnUpdate">update</string>
+    <string name="txtBitcoinExample">please turn on VPN</string>
 </resources>
